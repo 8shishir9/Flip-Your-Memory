@@ -1,6 +1,6 @@
 # Flip your memory game
 
-## <b> [Click here to Play the GAME!!](x)
+## <b> [Click here to Play the GAME!!](http://bastakoti.com/Flip-Your-Memory/)
 
 
 This project is made using HTML,Vanilla CSS &amp; JavaScript.
